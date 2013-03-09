@@ -1,7 +1,7 @@
 auto: true
 server: true
 permalink: none
-baseurl: "dvbportal.github.com/bootstrap"
+baseurl: "http://dvbportal.github.com/bootstrap"
 exclude:
 - .gitignore
 - README.md
